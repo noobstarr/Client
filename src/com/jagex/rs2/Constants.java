@@ -25,7 +25,7 @@ public final class Constants {
 	/**
 	 * The address the client is connecting too.
 	 */
-	protected final static String SERVER_IP = "199.195.116.2";
+	protected final static String SERVER_IP = "127.0.0.1";
 	
 	/**
 	 * The port the client is connecting too.
