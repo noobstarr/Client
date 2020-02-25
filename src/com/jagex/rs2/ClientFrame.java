@@ -47,7 +47,7 @@ public final class ClientFrame extends Client implements ActionListener {
 		 try {
 	            JFrame.setDefaultLookAndFeelDecorated(false);
 	            UIManager.setLookAndFeel(new SubstanceRavenGraphiteGlassLookAndFeel());
-	            JFrame jFrame = new JFrame("RuneScape - the massive online adventure game");
+	            JFrame jFrame = new JFrame("TEST CLIENT");
 	 
 	            JPanel jPanel = new JPanel();
 	            jPanel.setPreferredSize(new Dimension(765, 503));
